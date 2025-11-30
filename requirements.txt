@@ -1,0 +1,10 @@
+seaborn
+pandas
+numpy
+google-play-scraper
+textblob
+scikit-learn
+matplotlib
+seaborn
+jupyter
+python-dotenv
